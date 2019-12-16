@@ -26,10 +26,7 @@ function create() {
   };
 }
 
-window.serialData = {
-  porta: "/dev/pts/2",
-  velocidade: 19200
-};
+window.serialData = serial;
 
 window.timesListener = create();
 

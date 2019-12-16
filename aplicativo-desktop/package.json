@@ -27,6 +27,6 @@
   "dependencies": {
     "serialport": "^7.1.5",
     "tableify": "^1.1.0",
-    "back-end": "file:/home/mallone/Projetos/projeto-sistema/back-end"
+    "back-end": "file:../back-end"
   }
 }

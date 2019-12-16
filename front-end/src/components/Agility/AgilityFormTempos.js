@@ -94,6 +94,7 @@ function AgilityFormTempos({ loading, onCancel, onSave, data }) {
   }
 
   function handleTimes(times) {
+    console.log("AQUI", times);
     let find = null;
     const inscricaoId = state.selectedId;
 

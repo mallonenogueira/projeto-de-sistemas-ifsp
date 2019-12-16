@@ -6,7 +6,7 @@ const SerialPort = require("serialport");
 // Mensagem: "ID F000 [R000.000] [P000.000] T000.000"
 
 const serial = {
-  porta: "/dev/pts/3",
+  porta: "/home/mallone/dev/ttyS21",
   velocidade: 19200
 };
 
