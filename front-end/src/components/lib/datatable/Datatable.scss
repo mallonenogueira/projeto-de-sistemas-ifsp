@@ -1,0 +1,50 @@
+.datatable {
+  overflow-y: auto;
+  height: 100%;
+  color: var(--color);
+
+  &__element {
+    width: 100%;
+    border-collapse: collapse;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    background: #fff;
+  }
+
+  &__head {
+  }
+
+  &__th {
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2);
+    height: 35px;
+    padding: 5px;
+    text-align: left;
+    position: sticky;
+    top: 0;
+    background: #fff;
+    font-weight: 550;
+  }
+
+  &__body {
+    font-size: 0.9em;
+
+    .datatable__row {
+      border-bottom: 1px solid var(--gray-3);
+    }
+  }
+
+  &__row--selected td {
+    background: rgba(0, 0, 0, 0.1);
+  }
+
+  &__td {
+    height: 35px;
+    padding: 5px;
+    text-align: left;
+
+    &--action {
+      display: flex;
+      justify-content: flex-end;
+    }
+  }
+}

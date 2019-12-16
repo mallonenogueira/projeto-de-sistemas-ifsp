@@ -1,0 +1,28 @@
+.crud {
+  display: flex;
+  font-size: 1em;
+  font-weight: 500;
+  flex-direction: column;
+  width: 100%;
+  flex: 1;
+
+  &__header {
+    color: var(--color);
+    background: #fff;
+    height: 55px;
+    min-height: 55px;
+    padding: 10px 20px;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+  }
+
+  &__content {
+    flex: 1;
+    padding: 25px;
+    overflow-y: auto;
+    height: calc(100vh - 105px);
+    max-height: calc(100vh - 105px);
+  }
+}

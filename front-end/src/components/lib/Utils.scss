@@ -1,0 +1,49 @@
+.u- {
+  &fullCenter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  &verticalCenter {
+    display: flex;
+    align-items: center;
+  }
+
+  &verticalBottom {
+    display: flex;
+    align-items: flex-end;
+  }
+
+  &verticalTop {
+    display: flex;
+    align-items: flex-start;
+  }
+
+  &horizontalCenter {
+    display: flex;
+    justify-content: center;
+  }
+
+  &horizontalRight {
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  &horizontalLeft {
+    display: flex;
+    justify-content: flex-start;
+  }
+
+  &fullHeight {
+    height: 100%;
+  }
+
+  &flex {
+    display: flex;
+  }
+
+  &fullPadding {
+    padding: 15px;
+  }
+}

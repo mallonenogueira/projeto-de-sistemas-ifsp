@@ -1,0 +1,16 @@
+export const FETCH_ALL = "FETCHING_ATHLETES";
+export const FETCHED_ALL = "FETCHED_ATHLETES";
+export const FETCHED_ALL_ERROR = "ERROR_ATHLETES";
+
+export const FETCH_ONE = "FETCHING_ATHLETE";
+export const FETCHED_ONE = "FETCHED_ATHLETE";
+export const FETCHED_ONE_ERROR = "ERROR_ATHLETE";
+
+export const SAVE = "SAVE_ATHLETE";
+export const SAVED = "SAVED_ATHLETE";
+export const CREATE = "CREATE_ATHLETE";
+export const CREATED = "CREATED_ATHLETE";
+export const SAVE_ERROR = "ERROR_SAVE_ATHLETE";
+export const REMOVING = "REMOVING_ATHLETE";
+export const REMOVED = "REMOVED_ATHLETE";
+export const REMOVE_ERROR = "ERROR_REMOVE_ATHLETE";

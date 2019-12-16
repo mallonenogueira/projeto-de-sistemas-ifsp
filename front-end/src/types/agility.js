@@ -1,0 +1,20 @@
+export const FETCH_ALL = "FETCHING_AGILITY_ALL";
+export const FETCHED_ALL = "FETCHED_AGILITY_ALL";
+export const FETCHED_ALL_ERROR = "ERROR_AGILITY_ALL";
+
+export const FETCH_ONE = "FETCHING_AGILITY";
+export const FETCHED_ONE = "FETCHED_AGILITY";
+export const FETCHED_ONE_ERROR = "ERROR_AGILITY";
+
+export const SAVE = "SAVE_AGILITY";
+export const SAVED = "SAVED_AGILITY";
+export const CREATE = "CREATE_AGILITY";
+export const CREATED = "CREATED_AGILITY";
+export const SAVE_ERROR = "ERROR_SAVE_AGILITY";
+export const REMOVING = "REMOVING_AGILITY";
+export const REMOVED = "REMOVED_AGILITY";
+export const REMOVE_ERROR = "ERROR_REMOVE_AGILITY";
+
+export const ADD_ATHLETE = "ADD_ATHLETE_AGILITY";
+export const CHANGE_PESO = "CHANGEPESO_AGILITY";
+export const ADD_RESULT = "ADD_RESULT_AGILITY";

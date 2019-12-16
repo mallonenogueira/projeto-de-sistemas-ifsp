@@ -1,0 +1,44 @@
+.aside {
+  background: var(--aside-background-body);
+  height: 100%;
+  width: 70px;
+  transition: 0.1s ease-out width;
+  font-weight: 550;
+  text-transform: uppercase;
+
+  &__header {
+    color: var(--aside-header-color);
+    background: var(--aside-background-header);
+    height: 65px;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    align-items: center;
+    position: relative;
+
+    button {
+      position: absolute;
+      right: 15px;
+    }
+  }
+
+  &__logo {
+    font-size: 1.1em;
+    opacity: 0;
+    color: transparent;
+    transition: 0.2s ease-out all;
+  }
+
+  &--expanded {
+    width: 260px;
+
+    .aside__header {
+      display: flex;
+    }
+
+    .aside__logo {
+      color: var(--aside-header-color);
+      opacity: 1;
+    }
+  }
+}

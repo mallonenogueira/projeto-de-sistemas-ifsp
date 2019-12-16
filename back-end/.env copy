@@ -1,0 +1,6 @@
+APP_SECRET=authnodetdd
+
+DB_HOST=mallone
+DB_USER=mallone
+DB_PASS=root
+DB_NAME=mallone

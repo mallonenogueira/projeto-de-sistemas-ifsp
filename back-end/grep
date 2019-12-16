@@ -1,0 +1,1966 @@
+ 1966  service postgresql start
+ 1965  sudo apt-get install postgresql postgresql-contrib
+ 1964  apt-get install postgresql postgresql-contrib
+ 1963  sudo apt-get install postgresql
+ 1962  yarn dev
+ 1961  yarn start
+ 1960  code .
+ 1959  yarn dev
+ 1958  cd ../back-end
+ 1957  Projetos/projeto-sistema/front-end
+ 1956  yarn dev
+ 1955  cd ../back-end
+ 1954  yarn start
+ 1953  code .
+ 1952  Projetos/projeto-sistema/front-end/
+ 1951  yarn start
+ 1950  yarn dev
+ 1949  back-end
+ 1948  ls
+ 1947  cd ..
+ 1946  code .
+ 1945  Projetos/projeto-sistema/front-end
+ 1944  yarn start
+ 1943  code .
+ 1942  front-end
+ 1941  cd ..
+ 1940  yarn dev
+ 1939  back-end
+ 1938  ls
+ 1937  projeto-sistema
+ 1936  pro
+ 1935  ls
+ 1934  Projetos
+ 1933  yarn start
+ 1932  yarn add react-transition-group
+ 1931  yarn
+ 1930  rm -rf node_modules yarn.lock 
+ 1929  yarn
+ 1928  rm -rf node_modules yarn.lock 
+ 1927  yarn remove react-addons-css-transition-group
+ 1926  yarn add react-transition-group
+ 1925  yarn start
+ 1924  yarn dev
+ 1923  code .
+ 1922  front-end
+ 1921  ls
+ 1920  projeto-sistema
+ 1919  ls
+ 1918  Projetos
+ 1917  yarn add react-addons-css-transition-group
+ 1916  yarn start
+ 1915  code .
+ 1914  front-end
+ 1913  ls
+ 1912  Projetos/projeto-sistema
+ 1911  yarn start
+ 1910  yarn dev
+ 1909  front-end
+ 1908  ls
+ 1907  Projetos/projeto-sistema
+ 1906  npm install jsdom-quokka-plugin
+ 1905  ls
+ 1904  vim config.json
+ 1903  ls
+ 1902  ~/.quokka
+ 1901  rar a Entrega2Mallone.rar Entrega2Mallone
+ 1900  rar a Mallone.rar Mallone-Cadastro-equipe.png
+ 1899  rar a Mallone-Apresentação.odp .rar Mallone-Apresentação.odp
+ 1898  sudo apt-get install unrar
+ 1897  rar a Mallone-Apresentação.odp .rar Mallone-Apresentação.odp
+ 1896  ls
+ 1895  sudo apt-get install rar
+ 1894  sudo apt-get install unrar
+ 1893  sudo apt-get install unRAR
+ 1892  sudo apt-get remove rar
+ 1891  rar help
+ 1890  rar -a ./Mallone-Implementação.txt
+ 1889  rar a ./Mallone-Implementação.txt
+ 1888  sudo apt-get install rar
+ 1887  rar
+ 1886  yarn dev
+ 1885  dbeaver
+ 1884  yarn sequelize db:migrate
+ 1883  yarn sequelize db:migrate:undo:all
+ 1882  yarn sequelize db:migrate
+ 1881  yarn sequelize db:migrate:undo:all
+ 1880  PORT=3001 yarn dev
+ 1879  yarn dev
+ 1878  yarn add cors
+ 1877  npm install cors
+ 1876  yarn add axios
+ 1875  yarn start
+ 1874  PORT=3001 yarn dev
+ 1873  yarn dev
+ 1872  nemo .
+ 1871  nemo
+ 1870  yarn add bootstrap-4-grid
+ 1869  code react-redux
+ 1868  ls
+ 1867  cd ~/Área\ de\ Trabalho
+ 1866  ls
+ 1865  cd ..
+ 1864  yarn add react-dialog
+ 1863  yarn start
+ 1862  yarn add @fortawesome/free-brands-svg-icons
+ 1861  yarn add @fortawesome/free-regular-svg-icons
+ 1860  yarn start
+ 1859  yarn add @fortawesome/free-solid-svg-icons && yarn add @fortawesome/react-fontawesome
+ 1858  yarn add @fortawesome/fontawesome-svg-core
+ 1857  npm i --save @fortawesome/free-brands-svg-icons
+ 1856  yarn add react-modal
+ 1855  yarn start
+ 1854  echo 999999 | sudo tee -a /proc/sys/fs/inotify/max_user_watches && echo 999999 | sudo tee -a /proc/sys/fs/inotify/max_queued_events && echo 999999 | sudo tee -a /proc/sys/fs/inotify/max_user_instances && watchman shutdown-server
+ 1853  yarn start
+ 1852  ls
+ 1851  back-end
+ 1850  cd ..
+ 1849  front-end
+ 1848  code .
+ 1847  cd ..
+ 1846  code .
+ 1845  yarn dev
+ 1844  yarn test
+ 1843  echo 999999 | sudo tee -a /proc/sys/fs/inotify/max_user_watches && echo 999999 | sudo tee -a /proc/sys/fs/inotify/max_queued_events && echo 999999 | sudo tee -a /proc/sys/fs/inotify/max_user_instances && watchman shutdown-server
+ 1842  yarn test
+ 1841  NODE_ENV=test yarn jest
+ 1840  yarn test
+ 1839  NODE_ENV=test yarn sequelize db:migrate:undo:all
+ 1838  yarn test
+ 1837  Projetos/projeto-sistema/back-end
+ 1836  code .
+ 1835  back-end
+ 1834  ls
+ 1833  projeto-sistema
+ 1832  ls
+ 1831  Projetos
+ 1830  vim package.json
+ 1829  sudo apt-get install vim
+ 1828  vi package.json
+ 1827  vim package.json
+ 1826  code .
+ 1825  cd back-end
+ 1824  cd projeto-sistema
+ 1823  Projetos
+ 1822  PORT=3001 yarn dev
+ 1821  yarn add express-validator
+ 1820  yarn remove validator-js
+ 1819  yarn add validator-js
+ 1818  yarn test
+ 1817  PORT=3001 yarn dev
+ 1816  yarn dev
+ 1815  eslint .
+ 1814  code .
+ 1813  yarn add --dev eslint-plugin-jest
+ 1812  eslint --fix .
+ 1811  eslint .
+ 1810  code .
+ 1809  yarn add eslint-plugin-prettier eslint-config-prettier
+ 1808  yarn eslint --init
+ 1807  code .
+ 1806  yarn
+ 1805  code .
+ 1804  yarn add -D eslint
+ 1803  yarn dev
+ 1802  npm install -D eslint-config-prettier eslint-plugin-prettier
+ 1801  npx install-peerdeps --dev eslint-config-airbnb
+ 1800  yarn add -D eslint prettier
+ 1799  npm install -D eslint prettier
+ 1798  yarn
+ 1797  yarn add --dev eslint-config-prettier
+ 1796  yarn eslint --init
+ 1795  yarn add eslint -D
+ 1794  yarn eslint -D
+ 1793  yarn eslint --init
+ 1792  code .
+ 1791  projeto-sistema/back-end
+ 1790  ls
+ 1789  Projetos
+ 1788  yarn test
+ 1787  yarn dev
+ 1786  yarn test
+ 1785  NODE_ENV=test yarn sequelize db:migrate:undo:all
+ 1784  yarn test
+ 1783  yarn dev
+ 1782  yarn sequelize db:migrate
+ 1781  yarn dev
+ 1780  yarn test
+ 1779  npx sequelize-cli model:generate --name Team --attributes name:string,observation:string
+ 1778  yarn test
+ 1777  back-end
+ 1776  ls
+ 1775  yarn test
+ 1774  NODE_ENV=test yarn jest --watchAll --watchman
+ 1773  echo 999999 | sudo tee -a /proc/sys/fs/inotify/max_user_watches && echo 999999 | sudo tee -a /proc/sys/fs/inotify/max_queued_events && echo 999999 | sudo tee -a /proc/sys/fs/inotify/max_user_instances && watchman shutdown-server
+ 1772  NODE_ENV=test yarn jest --watchAll --watchman
+ 1771  NODE_ENV=test yarn jest
+ 1770  NODE_ENV=test yarn jest --watchman
+ 1769  yarn test
+ 1768  NODE_ENV=test yarn jest --watchman
+ 1767  yarn test
+ 1766  NODE_ENV=test yarn jest --watchman
+ 1765  yarn test
+ 1764  NODE_ENV=test yarn jest --watchman
+ 1763  NODE_ENV=test yarn jest -watchman
+ 1762  NODE_ENV=test yarn jest -watch
+ 1761  NODE_ENV=test yarn jest --watch
+ 1760  NODE_ENV=test yarn jest
+ 1759  yarn test
+ 1758  NODE_ENV=test yarn jest
+ 1757  yarn test
+ 1756  NODE_ENV=test yarn jest
+ 1755  yarn test
+ 1754  NODE_ENV=test yarn jest
+ 1753  yarn jest
+ 1752  NODE_ENV=test yarn jest
+ 1751  yarn jest
+ 1750  NODE_ENV=test yarn jest
+ 1749  yarn jest
+ 1748  NODE_ENV=test yarn jest
+ 1747  yarn test
+ 1746  yarn
+ 1745  rm -rf node_modules yarn-error.log yarn.lock
+ 1744  yarn
+ 1743  yarn jest
+ 1742  jest
+ 1741  yarn jest
+ 1740  yarn test
+ 1739  NODE_ENV=test yarn sequelize db:migrate
+ 1738  NODE_ENV=test sequelize db:migrate
+ 1737  yarn sequelize db:migrate
+ 1736  yarn test
+ 1735  yarn sequelize db:migrate
+ 1734  yarn test
+ 1733  ls
+ 1732  cd back-end
+ 1731  pgadmin
+ 1730  \nsudo apt-get install pgadmin3
+ 1729  code .
+ 1728  projeto-sistema
+ 1727  ls
+ 1726  Projetos
+ 1725  snap run dbeaver
+ 1724  snap run dbeaver-ce 
+ 1723  snap run dbeaver-ce
+ 1722  snap run dbeaver
+ 1721  snap run rasul-dbeaver
+ 1720  snap list
+ 1719  snap 
+ 1718  snap refresh
+ 1717  snap help refresh
+ 1716  snap install --edge dbeaver-ce 
+ 1715  dbeaver
+ 1714  exit
+ 1713  snap install --edge dbeaver-ce 
+ 1712  snap install dbeaver-ce 
+ 1711  snap install
+ 1710  snap
+ 1709  snap isntall  dbeaver-ce 
+ 1708  sudo apt install snapd
+ 1707  sudo apt-get install snap
+ 1706  snap
+ 1705  snap install db
+ 1704  yarn sequelize db:migrate
+ 1703  sequelize db:migrate
+ 1702  npm install -g sequelize
+ 1701  yarn add -G sequelize
+ 1700  sequelize db:migrate
+ 1699  yarn add sequelize
+ 1698  sequelize db:migrate
+ 1697  heroku create
+ 1696  cd ~/Área\ de\ Trabalho
+ 1695  heroku open
+ 1694  heroku ps:scale web=1
+ 1693  heroku addons:add heroku-postgresql:dev
+ 1692  heroku login -i
+ 1691  heroku login
+ 1690  heroku
+ 1689  herocu
+ 1688  heroku-cli
+ 1687  heroky-cli
+ 1686  curl https://cli-assets.heroku.com/install-ubuntu.sh | sh
+ 1685  curl https://cli-assets.heroku.com/install.sh | sh
+ 1684  cd /tmp
+ 1683  cd tmp
+ 1682  sudo snap install --classic heroku
+ 1681  exit
+ 1680  sudo snap install --classic heroku
+ 1679  su mallone
+ 1678  su
+ 1677  snap
+ 1676  sudo snap install --classic heroku
+ 1675  snap install --classic heroku
+ 1674  sudo snap install --classic heroku
+ 1673  sudo apt-get install snap
+ 1672  snap install --classic heroku
+ 1671  sudo snap install --classic heroku
+ 1670  yarn dev
+ 1669  yarn start
+ 1668  yarn 
+ 1667  code .
+ 1666  back-end
+ 1665  ls
+ 1664  projeto-sistema
+ 1663  ls
+ 1662  Projetos
+ 1661  ~
+ 1660  ls
+ 1659  Área\ de\ Trabalho
+ 1658  /sbin/init
+ 1657  file /sbin/init
+ 1656  cat file /sbin/init
+ 1655  wine .wine/drive_c/Program\ Files\ \(x86\)/Nicalis\ Inc/The\ Binding\ of\ Isaac\ -\ Afterbirth\ Plus/unins000.exe
+ 1654  reboot
+ 1653  wine ~/.wine/drive_c/Program\ Files\ \(x86\)/Nicalis\ Inc/The\ Binding\ of\ Isaac\ -\ Afterbirth\ Plus/isaac-ng.exe
+ 1652  wine ~/.wine/drive_c/Program\ Files\ \(x86\)/Nicalis\ Inc/The\ Binding\ of\ Isaac\ -\ Afterbirth\ Plus/unins000.exe
+ 1651  wine ~/.wine/drive_c/Program\ Files\ \(x86\)/Nicalis\ Inc/The\ Binding\ of\ Isaac\ -\ Afterbirth\ Plus/isaac-ng.exe
+ 1650  wine ~/.wine
+ 1649  wine The\ Binding\ of\ Isaac\ -\ Afterbirth\ Plus.desktop
+ 1648  ./The\ Binding\ of\ Isaac\ -\ Afterbirth\ Plus.desktop
+ 1647  ls
+ 1646  cd ~/Área\ de\ Trabalho
+ 1645  winecfg
+ 1644  wine .wine/drive_c/Program\ Files/UnderMine/UnderMine.exe
+ 1643  wine .wine/drive_c
+ 1642  winecfg
+ 1641  sudo winecfg
+ 1640  wine UnderMine.exe
+ 1639  wine UnityCrashHandler64.exe
+ 1638  wine
+ 1637  sudo apt-get install --install-recommends winehq-stable
+ 1636  sudo apt-get update
+ 1635  sudo apt-add-repository https://dl.winehq.org/wine-builds/ubuntu/
+ 1634  wget -nc https://dl.winehq.org/wine-builds/Release.key && sudo apt-key add Release.key
+ 1633  sudo apt-get install wine
+ 1632  yarn add node-sass
+ 1631  npm start
+ 1630  code .
+ 1629  ls
+ 1628  cd react-redux
+ 1627  ls
+ 1626  cd Área\ de\ Trabalho
+ 1625  ls
+ 1624  gp
+ 1623  git commit -m "Alterado README.md"
+ 1622  git add .
+ 1621  gst
+ 1620  git push -u origin master
+ 1619  git remote add origin https://github.com/Mallone-Nogueira/react-hooks-and-redux.git
+ 1618  git commit -m "Commit inicial - Exemplo de utilização de react hooks e redux"
+ 1617  gst
+ 1616  git add .
+ 1615  gst
+ 1614  ls
+ 1613  react-redux
+ 1612  cd ..
+ 1611  code .
+ 1610  cd react-redux\ \(cópia\)
+ 1609  ls
+ 1608  cd ..
+ 1607  yarn add redux
+ 1606  yarn start
+ 1605  code .
+ 1604  yarn start
+ 1603  yarn add redux-devtools
+ 1602  yarn add react-redux
+ 1601  ls
+ 1600  cd react-redux
+ 1599  ls
+ 1598  yarn add react-devtools
+ 1597  yarn add react-redux
+ 1596  npx create-react-app react-redux
+ 1595  npmx create-react-app react-redux
+ 1594  sudo npm create-react-app react-redux
+ 1593  npm create-react-app react-redux
+ 1592  create-react-app react-redux
+ 1591  ls
+ 1590  cd ..
+ 1589  npm start
+ 1588  npm run dev
+ 1587  npm install
+ 1586  sudo chmod 777 . -R
+ 1585  sudo chown mallone . -R
+ 1584  ls -l
+ 1583  sudo npm install
+ 1582  sudo chown mallone . -R
+ 1581  sudo npm install
+ 1580  sudo chmod 777 . -R
+ 1579  sudo chmod 777 .
+ 1578  sudo npm install
+ 1577  npm install
+ 1576  code .
+ 1575  git clone https://github.com/flexdinesh/react-redux-boilerplate.git
+ 1574  code .
+ 1573  yarn 
+ 1572  code .
+ 1571  sudo npm install -g eslint
+ 1570  npm install -g eslint
+ 1569  sudo chmod 777 /usr/local/lib/node_modules -R
+ 1568  npm install -g eslint
+ 1567  sudo chmod 777 /usr/local/lib/node_modules
+ 1566  npm install -g eslint
+ 1565  code .
+ 1564  cd back-end
+ 1563  ls
+ 1562  gst
+ 1561  rm -rf youtube-nodejs-tdd-jest
+ 1560  ls
+ 1559  gst
+ 1558  git clone https://github.com/Rocketseat/youtube-nodejs-tdd-jest.git back-end
+ 1557  ls
+ 1556  git clone https://github.com/Rocketseat/youtube-nodejs-tdd-jest.git
+ 1555  ls
+ 1554  projeto-sistema
+ 1553  ls
+ 1552  mkdir projeto-sistema
+ 1551  ls
+ 1550  Projetos
+ 1549  code .
+ 1548  backend
+ 1547  ls
+ 1546  omnistack
+ 1545  ls
+ 1544  Projetos
+ 1543  sudo apt-get upgrade
+ 1542  sudo apt-get update
+ 1541  ifconfig
+ 1540  yarn start
+ 1539  adb start-server
+ 1538  adb kill-server
+ 1537  yarn start
+ 1536  adb devices
+ 1535  adb reverse tcp:8081 tcp:8081
+ 1534  yarn start
+ 1533  adb reverse tcp:8081 tcp:8081
+ 1532  yarn start
+ 1531  adb devices
+ 1530  adb start-server
+ 1529  adb kill-server
+ 1528  adb reboot
+ 1527  react-native start
+ 1526  react-native run-android
+ 1525  adb reverse tcp:8081 tcp:8081
+ 1524  adb reverse
+ 1523  yarn start
+ 1522  react-native run-android
+ 1521  ls
+ 1520  sudo chmod 755 android/gradlew
+ 1519  adb devices
+ 1518  react-native run-android
+ 1517  code .
+ 1516  yarn start
+ 1515  echo 999999 | sudo tee -a /proc/sys/fs/inotify/max_user_watches && echo 999999 | sudo tee -a /proc/sys/fs/inotify/max_queued_events && echo 999999 | sudo tee -a /proc/sys/fs/inotify/max_user_instances && watchman shutdown-server
+ 1514  yarn start
+ 1513  react-native run-android
+ 1512  cd mobile
+ 1511  ls
+ 1510  adb devices
+ 1509  sudo chmod a+r /etc/udev/rules.d/51-android.rules
+ 1508  chmod a+r /etc/udev/rules.d/51-android.rules
+ 1507  sudo xed 51-android.rules
+ 1506  ls
+ 1505  cd /etc/udev/rules.d
+ 1504  cd /etc/udev/rules
+ 1503  cd /etc/udev/rules.d/51-android.rules
+ 1502  xad /etc/udev/rules.d/51-android.rules
+ 1501  /etc/udev/rules.d/51-android.rules
+ 1500  xad no permissions 
+ 1499  adb devices
+ 1498  adb
+ 1497  ls
+ 1496  sudo su
+ 1495  su
+ 1494  sudo adb devices
+ 1493  adb connect
+ 1492  adb connect localhost:5555
+ 1491  adb connect
+ 1490  adb devices
+ 1489  ~/Android/Sdk/tools/bin/sdkmanager "platform-tools" "platforms;android-27" "build-tools;27.0.3"
+ 1488  echo $ANDROID_HOME
+ 1487  xed ~/.zshrc
+ 1486  xed ~/.bash_profile
+ 1485  gedit .
+ 1484  leafpad ~/.profile
+ 1483  gedit ~/.profile
+ 1482  gedit ~/.bash_profile
+ 1481  mkdir ~/Android/Sdk
+ 1480  mkdir ~/Android
+ 1479  mkdir -R ~/Android/Sdk
+ 1478  mkdir -r ~/Android/Sdk
+ 1477  mkdir ~/Android/Sdk
+ 1476  mkdirdroid/Sdk
+ 1475  cd ~/Android/Sdk
+ 1474  sudo cd ~/Android/Sdk
+ 1473  sudo apt-get install gcc-multilib lib32z1 lib32stdc++6
+ 1472  java -version
+ 1471  sudo update-alternatives --config java
+ 1470  update-alternatives --config java
+ 1469  /usr/sbin/alternatives --config java\n
+ 1468  java -version
+ 1467  sudo apt-get install openjdk-8-jdk
+ 1466  sudo apt-get update
+ 1465  java --version
+ 1464  java --verison
+ 1463  sudo add-apt-repository ppa:openjdk-r/ppa
+ 1462  sudo npm install -g react-native-cli
+ 1461  curl -sL https://deb.nodesource.com/setup_10.x | sudo bash -
+ 1460  sudo apt-get install curl
+ 1459  npx react-native init mobile
+ 1458  npm react-native init mobile
+ 1457  ls
+ 1456  npm react-native init mobile
+ 1455  ls
+ 1454  cd ..
+ 1453  yarn run dev
+ 1452  yarn start
+ 1451  ls
+ 1450  cd ../frontend
+ 1449  yarn run dev
+ 1448  ls
+ 1447  cd backend
+ 1446  ls
+ 1445  cd ..
+ 1444  yarn run dev
+ 1443  clear
+ 1442  yarn run dev
+ 1441  ls
+ 1440  cd backend
+ 1439  ls
+ 1438  cd ..
+ 1437  yarn add axios
+ 1436  yarn start
+ 1435  yarn run dev
+ 1434  rpm run dev
+ 1433  yarn add react-router-dom
+ 1432  code .
+ 1431  ls
+ 1430  cd frontend
+ 1429  ls
+ 1428  cd omnistack
+ 1427  ls
+ 1426  Projetos
+ 1425  ls
+ 1424  front
+ 1423  projetos
+ 1422  yarn add react-router-dom
+ 1421  npm start
+ 1420  npm run dev
+ 1419  run devc
+ 1418  code .
+ 1417  ls
+ 1416  frontend
+ 1415  ls
+ 1414  npx create-react-app frontend
+ 1413  rm -r frontend
+ 1412  cd ..
+ 1411  code .
+ 1410  npx create-react-app
+ 1409  create-react-app
+ 1408  yarn create-react-app
+ 1407  npm init -y
+ 1406  npm init
+ 1405  yarn create-react-app
+ 1404  ls
+ 1403  frontend
+ 1402  ls
+ 1401  mkdir frontend
+ 1400  ls
+ 1399  yarn create-react-app frontend
+ 1398  ls
+ 1397  rm -r frontend
+ 1396  ls
+ 1395  cd ..
+ 1394  ls
+ 1393  frontend
+ 1392  mkdir frontend
+ 1391  ls
+ 1390  cd ~/Projetos/omnistack
+ 1389  Projetos
+ 1388  ls
+ 1387  yarn add cors
+ 1386  npm run dev
+ 1385  clear
+ 1384  npm run dev
+ 1383  clear
+ 1382  npm run dev
+ 1381  yarn add axios
+ 1380  npm run dev
+ 1379  yarn add mongoose
+ 1378  npm run dev
+ 1377  sudo apt-get install insomnia
+ 1376  sudo apt-get update
+ 1375  wget --quiet -O - https://insomnia.rest/keys/debian-public.key.asc \\n    | sudo apt-key add -
+ 1374  echo "deb https://dl.bintray.com/getinsomnia/Insomnia /" \\n    | sudo tee -a /etc/apt/sources.list.d/insomnia.list
+ 1373  cd /tmp
+ 1372  cd tmp
+ 1371  npm run dev
+ 1370  yarn add nodemon -D
+ 1369  exit
+ 1368  node src/server.js
+ 1367  yarn add express
+ 1366  yarn init . -y
+ 1365  yarn init .
+ 1364  code .
+ 1363  backend
+ 1362  mkdir backend
+ 1361  omnistack/
+ 1360  mkdir omnistack
+ 1359  Projetos
+ 1358  yarn -v
+ 1357  ./UnityHubSetup.AppImage
+ 1356  sudo chmod +x UnityHubSetup.AppImage
+ 1355  Downloads
+ 1354  ls
+ 1353  ember s
+ 1352  echo 999999 | sudo tee -a /proc/sys/fs/inotify/max_user_watches && echo 999999 | sudo tee -a /proc/sys/fs/inotify/max_queued_events && echo 999999 | sudo tee -a /proc/sys/fs/inotify/max_user_instances && watchman shutdown-server
+ 1351  ember s
+ 1350  code .
+ 1349  micronos-mpv
+ 1348  ls
+ 1347  cd ..
+ 1346  code .
+ 1345  ember s
+ 1344  cd micronos-society
+ 1343  ls
+ 1342  cd ..
+ 1341  ember s
+ 1340  code .
+ 1339  cd micronos-society-calendar
+ 1338  ls
+ 1337  ember electron
+ 1336  yarn
+ 1335  yarn install
+ 1334  ember s
+ 1333  ember electron
+ 1332  code .
+ 1331  ls
+ 1330  ember-electron
+ 1329  ls
+ 1328  cd ..
+ 1327  ls
+ 1326  cd ember
+ 1325  ls
+ 1324  ember
+ 1323  ls
+ 1322  Front
+ 1321  Projetos
+ 1320  teamviewer
+ 1319  sudo su
+ 1318  sudo apt-get install TEAMviewer
+ 1317  ember s
+ 1316  echo 999999 | sudo tee -a /proc/sys/fs/inotify/max_user_watches && echo 999999 | sudo tee -a /proc/sys/fs/inotify/max_queued_events && echo 999999 | sudo tee -a /proc/sys/fs/inotify/max_user_instances && watchman shutdown-server
+ 1315  ember g controller servicos --pod
+ 1314  ember g route servicos --pod
+ 1313  ember d route tabela-preco --pod
+ 1312  ember d controller tabela-preco --pod
+ 1311  ember d controller produto --pod
+ 1310  ember d service produto --pod
+ 1309  ember g service produto --pod
+ 1308  ember s
+ 1307  ember d component --pod ui-container
+ 1306  ember g component --pod ui-container
+ 1305  ember d component --pod ui-container
+ 1304  ember d component ui-container --pod
+ 1303  ember d component ui-container
+ 1302  ember s
+ 1301  code .
+ 1300  ls
+ 1299  micronos-mpv
+ 1298  ls
+ 1297  ember-electron
+ 1296  ls
+ 1295  Front
+ 1294  Projetos
+ 1293  Pronjetos
+ 1292  ls
+ 1291  urserver
+ 1290  sudoedit /etc/lightdm/lightdm.conf.d/70-linuxmint.conf
+ 1289  ls
+ 1288  urserver
+ 1287  sudo apt-get install urserver
+ 1286  sudo apt-get install -f urserver
+ 1285  sudo apt-get install -f
+ 1284  ls
+ 1283  unifiedremote
+ 1282  sudo apt-get install -f
+ 1281  sudo dpkg -i urserver*.deb
+ 1280  wget https://www.unifiedremote.com/static/builds/server/linux-x64/745/urserver-3.6.0.745.deb
+ 1279  npm install
+ 1278  ls
+ 1277  micronos-society-calendar
+ 1276  ls
+ 1275  ember new micronos-society-calendar
+ 1274  ember new micronos-society-calendar -b @ember/octane-app-blueprint
+ 1273  ls
+ 1272  cd ..
+ 1271  ember s
+ 1270  sudo yarn add json-serializer
+ 1269  yarn add json-serializer
+ 1268  yarn add JSONSerializer
+ 1267  ember s
+ 1266  ls
+ 1265  sudo yarn
+ 1264  rm -rf node_modules package-lock.json dist
+ 1263  echo 999999 | sudo tee -a /proc/sys/fs/inotify/max_user_watches && echo 999999 | sudo tee -a /proc/sys/fs/inotify/max_queued_events && echo 999999 | sudo tee -a /proc/sys/fs/inotify/max_user_instances && watchman shutdown-server
+ 1262  ember s
+ 1261  npm install
+ 1260  code .
+ 1259  gst
+ 1258  ls
+ 1257  git commit -m "Initial commit"
+ 1256  git add .
+ 1255  git commit -m "Initial commit"
+ 1254  gst
+ 1253  ls
+ 1252  sudo chmod 775 . -R
+ 1251  sudo chown mallone -R .
+ 1250  micronos-society
+ 1249  ls
+ 1248  ember new micronos-society -b @ember/octane-app-blueprint
+ 1247  ls
+ 1246  rm -rf micronos-society
+ 1245  ls
+ 1244  rm -rf package-lock.json ember-quickstart
+ 1243  ls
+ 1242  ember new ember-quickstart -b @ember/octane-app-blueprint
+ 1241  ls
+ 1240  cd ..
+ 1239  sudo npm install -g ember-cli
+ 1238  npm install -g ember-cli
+ 1237  micronos-society
+ 1236  sudo ember new micronos-society-calendar -b @ember/octane-app-blueprint
+ 1235  sudo chmod 777 /home/mallone/.npm/_cacache/ -R
+ 1234  sudo chown mallone /home/mallone/.npm/_cacache/ -R
+ 1233  sudo ember new micronos-society-calendar -b @ember/octane-app-blueprint
+ 1232  npm dedupe && npm prune
+ 1231  cat /tmp/error.dump.ca76e2c6434b7e915b4362b1ad9bbf6f.log
+ 1230  sudo ember new micronos-society-calendar -b @ember/octane-app-blueprint
+ 1229  ember new micronos-society-calendar -b @ember/octane-app-blueprint
+ 1228  ls
+ 1227  cd ..
+ 1226  code .
+ 1225  chmod 775 . -R 
+ 1224  chmod 775 .
+ 1223  sudo chown mallone . -R
+ 1222  code .
+ 1221  micronos-mpv
+ 1220  ls
+ 1219  cd ..
+ 1218  code .
+ 1217  sudo yarn add ember-electron
+ 1216  yarn add ember-electron
+ 1215  ls
+ 1214  micronos-society
+ 1213  ls
+ 1212  sudo ember new micronos-society
+ 1211  ember new micronos-society
+ 1210  sudo npm install -g ember-cli
+ 1209  npm install -g ember-cli
+ 1208  ls
+ 1207  cd ..
+ 1206  code .
+ 1205  micronos-mpv
+ 1204  ls
+ 1203  ember-electron
+ 1202  ls
+ 1201  Front
+ 1200  Projetos
+ 1199  yarn
+ 1198  sudo rm -rf node_modules yarn-error.log yarn.lock
+ 1197  rm -rf node_modules yarn-error.log yarn.lock
+ 1196  ember g controller tabela-preco -p
+ 1195  ember electron
+ 1194  sudo yarn
+ 1193  yarn
+ 1192  ember electron
+ 1191  ember g route tabela-preco --pod
+ 1190  ember g service produto --pod
+ 1189  ember d service produto 
+ 1188  ember g service produto -p
+ 1187  ember d service produto 
+ 1186  ember g service produto 
+ 1185  ember d service mysql-service
+ 1184  ember d controller cadastro/produto/form --pod
+ 1183  ember d controller cadastro/produto/form/ --pod
+ 1182  ember d controller cadastro/produto/form/tab-1 --pod
+ 1181  ember d controller cadastro/produto/form/tab-2 --pod
+ 1180  ember d template cadastro/produto/form/tab-2 --pod
+ 1179  ember d template cadastro/produto/form/tab-1 --pod
+ 1178  ember d template cadastro/produto/form --pod
+ 1177  ember d template cadastro/produto --pod
+ 1176  ember d template cadastro/layout/tab-1 --pod
+ 1175  ember d template cadastro/layout/tab-2 --pod
+ 1174  ember d template cadastro/layout-2/tab-2 --pod
+ 1173  ember d template cadastro/layout-2/tab-1 --pod
+ 1172  ember d controller cadastro/layout-2/tab-1 --pod
+ 1171  ember d controller cadastro/layout-2/tab-2 --pod
+ 1170  ember d controller cadastro/layout/tab-2 --pod
+ 1169  ember d controller cadastro/layout/tab-1 --pod
+ 1168  ember d route cadastro/layout --pod
+ 1167  ember d template cadastro/layout --pod
+ 1166  ember d template cadastro/layout-2 --pod
+ 1165  ember d controller cadastro/layout-2 --pod
+ 1164  ember d controller cadastro/layout --pod
+ 1163  ember d controller cadastro/produto --pod
+ 1162  ember d route cadastro/produto --pod
+ 1161  ember electron
+ 1160  echo 999999 | sudo tee -a /proc/sys/fs/inotify/max_user_watches && echo 999999 | sudo tee -a /proc/sys/fs/inotify/max_queued_events && echo 999999 | sudo tee -a /proc/sys/fs/inotify/max_user_instances && watchman shutdown-server
+ 1159  ember electron
+ 1158  code .
+ 1157  micronos-mpv
+ 1156  ls
+ 1155  lsl
+ 1154  ember-electron
+ 1153  ls
+ 1152  Front
+ 1151  Projetos
+ 1150  ember electron
+ 1149  ember g service sequelize-service
+ 1148  ember electron
+ 1147  sudo yarn add mysql2
+ 1146  yarn add mysql2
+ 1145  ember electron
+ 1144  sudo yarn add sequelize
+ 1143  npm install --save sequelize
+ 1142  ember electron
+ 1141  echo 999999 | sudo tee -a /proc/sys/fs/inotify/max_user_watches && echo 999999 | sudo tee -a /proc/sys/fs/inotify/max_queued_events && echo 999999 | sudo tee -a /proc/sys/fs/inotify/max_user_instances && watchman shutdown-server
+ 1140  sudo mysql-workbench
+ 1139  sudo mysql -uroot -proot
+ 1138  sudo mysql -uroot -p
+ 1137  sudo mysql-workbench
+ 1136  sudo apt-get install mysql-workbench
+ 1135  ember g service mysqlService
+ 1134  sudo mysql -uroot -p
+ 1133  mysql -u root
+ 1132  mysql -uroot -proot
+ 1131  mysql -uroot -p
+ 1130  mysql -uroot
+ 1129  mysql
+ 1128  sudo apt-get install mongodb-server
+ 1127  ember electron
+ 1126  sudo chown mallone -R /home/mallone/Projetos/Front/
+ 1125  ember electron
+ 1124  sudo chmod 775 /home/mallone/.electron-gyp 
+ 1123  sudo chown mallone /home/mallone/.electron-gyp -R
+ 1122  ember electron
+ 1121  sudo yarn add mysql
+ 1120  sudo apt-get install mysql-server
+ 1119  sudo apt-get install mysql
+ 1118  sudo ap-get install mysql
+ 1117  yarn add mysql
+ 1116  yarn install mysql
+ 1115  npm install mysql
+ 1114  code .
+ 1113  micronos-mpv
+ 1112  ls
+ 1111  ember-electron
+ 1110  ls
+ 1109  Front
+ 1108  Projetos
+ 1107  git push -u origin master
+ 1106  git remote add origin https://github.com/Mallone-Nogueira/ember-app.git
+ 1105  git commit -m "Initial commit"
+ 1104  gst
+ 1103  git reset HEAD package-lock.json
+ 1102  git add .
+ 1101  gst
+ 1100  git push -u origin master
+ 1099  git remote add origin https://github.com/Mallone-Nogueira/ember-components.git
+ 1098  gst
+ 1097  git commit -m "Initial commit"
+ 1096  gst
+ 1095  git reset HEAD yarn.lock package-lock.json
+ 1094  gst
+ 1093  git add .
+ 1092  gst
+ 1091  git add .gitignore
+ 1090  gst
+ 1089  git add addon app tests
+ 1088  gst
+ 1087  ember g template --pod offcanvas/users
+ 1086  ember g controller --pod offcanvas/users
+ 1085  ember g controller --pod offcanvas/main/master
+ 1084  ember g template --pod offcanvas/main/master
+ 1083  ember g template --pod offcanvas/main/product
+ 1082  ember g controller --pod offcanvas/main/product
+ 1081  ember g controller --pod offcanvas/main
+ 1080  ember g template --pod offcanvas/main
+ 1079  code .
+ 1078  cd ../micronos-mpv
+ 1077  ember g component --pod ui-tabs/item
+ 1076  ember component --pod ui-tabs/tab-item
+ 1075  ember component --pod ui-tabs/tab
+ 1074  sudo rm -rf node_modules dist package-lock.json tmp && sudo npm install && ember s
+ 1073  sudo npm install && ember s
+ 1072  tail /home/mallone/.npm/_cacache/tmp/1c66eaab
+ 1071  npm install
+ 1070  sudo chmod 775 /home/mallone/.npm -R
+ 1069  npm install
+ 1068  sudo chmod 775 ../. -R
+ 1067  npm install
+ 1066  sudo chown mallone ../m-components -R
+ 1065  chown mallone ../m-components -R
+ 1064  ls -l
+ 1063  chown mallone . -R
+ 1062  npm install
+ 1061  chown mallone . -R
+ 1060  npm install
+ 1059  sudo rm -rf node_modules dist package-lock.json tmp
+ 1058  rm -rf node_modules dist package-lock.json tmp
+ 1057  ember s
+ 1056  sudo npm audit fix
+ 1055  sudo npm install ember-cli-sass\n
+ 1054  ember install ember-cli-sass\n
+ 1053  sudo npm install
+ 1052  npm install
+ 1051  sudo ember install ember-cli-sass\n
+ 1050  ember install ember-cli-sass\n
+ 1049  ~ember install ember-cli-sass\n
+ 1048  ^[[200~ember install ember-cli-sass
+ 1047  sudo ember install ember-cli-sass
+ 1046  ember install ember-cli-sass
+ 1045  pwd
+ 1044  ember s
+ 1043  watchman watch-del /home/mallone/Projetos/Front/ember-electron/m-components ; watchman watch-project /home/mallone/Projetos/Front/ember-electron/m-components
+ 1042  ember s
+ 1041  nemo .
+ 1040  nautilus .
+ 1039  ls
+ 1038  venDOR
+ 1037  sudo npm install && ember s
+ 1036  npm install && ember s
+ 1035  rm -rf node_modules dist package-lock.json
+ 1034  npm install && ember s
+ 1033  sudo npm install --save ember-cli-sass sass
+ 1032  npm install --save ember-cli-sass sass
+ 1031  rm -rf node_modules package-lock.json
+ 1030  npm install && ember s
+ 1029  npm install --save ember-cli-sass sass
+ 1028  sudo npm install && ember s
+ 1027  npm install && ember s
+ 1026  ember s
+ 1025  npm install
+ 1024  code .
+ 1023  code 
+ 1022  cd ../micronos-mpv
+ 1021  ember g component --pod ui-container
+ 1020  ember g controller --pod application
+ 1019  ember g template --pod offcanvas
+ 1018  ember g controller --pod offcanvas
+ 1017  ember d template application
+ 1016  ember g template application
+ 1015  ember g route application --pod
+ 1014  ls
+ 1013  cd ../m-app
+ 1012  ember g mixin --pod ui-offcanvas-mixin
+ 1011  ember s
+ 1010  echo 999999 | sudo tee -a /proc/sys/fs/inotify/max_user_watches && echo 999999 | sudo tee -a /proc/sys/fs/inotify/max_queued_events && echo 999999 | sudo tee -a /proc/sys/fs/inotify/max_user_instances && watchman shutdown-server
+ 1009  chmod 0700 /usr/local/var/run/watchman/mallone-state
+ 1008  echo 999999 | sudo tee -a /proc/sys/fs/inotify/max_user_watches && echo 999999 | sudo tee -a /proc/sys/fs/inotify/max_queued_events && echo 999999 | sudo tee -a /proc/sys/fs/inotify/max_user_instances && watchman shutdown-server
+ 1007  ember g component --pod ui-offcanvas/application
+ 1006  npm install && ember s
+ 1005  code .
+ 1004  ls
+ 1003  m-app
+ 1002  ls
+ 1001  ember new m-app
+ 1000  ls
+  999  cd ..
+  998  rm -rf node_modules dist yarn.lock  && sudo npm install && ember s
+  997  rm -rf node_modules dist yarn.lock  && npm install && ember s
+  996  chown mallone . -R
+  995  rm -rf node_modules dist yarn.lock  && npm install && ember s
+  994  rm -rf node_modules/m-components yarn.lock  && yarn install && ember s
+  993  rm -rf node_modules/m-components && yarn install && ember s
+  992  yarn install && ember s
+  991  ember s
+  990  ember d component --pod ui-tabs
+  989  ember d component --pod ui-canvas
+  988  ember g component --pod ui-canvas
+  987  cd ../micronos-mpv
+  986  yarn install && ember s
+  985  rm -rf node_modules dist tmp yarn-error.log yarn.lock
+  984  ls
+  983  ember g component --pod ui-tabs
+  982  ember g components --pod ui-tabs
+  981  ember s
+  980  yarn install
+  979  ember s
+  978  yarn install
+  977  ember s
+  976  yarn install
+  975  ember s
+  974  yarn install
+  973  npm install
+  972  echo 999999 | sudo tee -a /proc/sys/fs/inotify/max_user_watches && echo 999999 | sudo tee -a /proc/sys/fs/inotify/max_queued_events && echo 999999 | sudo tee -a /proc/sys/fs/inotify/max_user_instances && watchman shutdown-server && sudo sysctl -p
+  971  ember s
+  970  micronos-mpv
+  969  ls
+  968  cd ..
+  967  ls
+  966  m-components
+  965  ls
+  964  ../Projetos/Front/ember-electron
+  963  sudo make install
+  962  ember g component --pod ui-offcanvas
+  961  m-components
+  960  ls -l
+  959  sudo chown -R mallone m-components
+  958  sudo chown mallone m-components
+  957  chown mallone m-components
+  956  chrown mallone m-components
+  955  chrown mallone
+  954  ls -l
+  953  ls
+  952  cd ..
+  951  ember g component --pod ui-offcanvas
+  950  make
+  949  ./configure
+  948  ./autogen.sh 
+  947  git checkout v4.9.0
+  946  sudo apt-get install libtool
+  945  ./autogen.sh 
+  944  code .
+  943  m-components
+  942  ls
+  941  sudo apt-get install -y autoconf automake build-essential python-dev
+  940  ./autogen.sh
+  939  git checkout v4.9.0
+  938  ./autogen.sh
+  937  gl
+  936  ./autogen.sh
+  935  git checkout v4.7.0
+  934  ls
+  933  ./autogen.sh
+  932  git tag
+  931  git checkout v4.9.0
+  930  cd watchman
+  929  git clone https://github.com/facebook/watchman.git
+  928  cd ~
+  927  echo 999999 | sudo tee -a /proc/sys/fs/inotify/max_user_watches && echo 999999 | sudo tee -a /proc/sys/fs/inotify/max_queued_events && echo 999999 | sudo tee -a /proc/sys/fs/inotify/max_user_instances && watchman shutdown-server && sudo sysctl -p
+  926  sudo ember addon m-components
+  925  sudo ember addon mallone-components
+  924  ember addon mallone-components
+  923  ls
+  922  ember-electron
+  921  ls
+  920  ember
+  919  ls
+  918  cd ..
+  917  ls
+  916  cd ..
+  915  snap
+  914  ls
+  913  cd ~
+  912  ls
+  911  code .
+  910  ember s
+  909  micronos-mpv
+  908  ls
+  907  ember s
+  906  ember-electron
+  905  Front
+  904  Projetos
+  903  ember s
+  902  code .
+  901  gl
+  900  gst
+  899  git checkout .
+  898  gst
+  897  gl
+  896  micronos-mpv
+  895  ls
+  894  ember-electron
+  893  ls
+  892  Front
+  891  Projetos
+  890  gp
+  889  gst
+  888  git commit -m "Add class tabs"
+  887  git diff HEAD
+  886  git diff
+  885  git add app*
+  884  gst
+  883  gp
+  882  gl
+  881  git commit -m "Canvas and tabs"
+  880  gst
+  879  git reset HEAD yarn.lock
+  878  git add .
+  877  gst
+  876  ember install ember-wormhole
+  875  ember g component --pod ui-canvas
+  874  ember g --pod template cadastro/layout-2/tab-2
+  873  ember g --pod template cadastro/layout-2/tab-1
+  872  ember g --pod template cadastro/layout-2
+  871  ember g --pod controller cadastro/layout-2
+  870  ember g --pod controller cadastro/layout-2/tab-2
+  869  ember g --pod controller cadastro/layout-2/tab-1
+  868  ember d component --pod double-yield
+  867  ember g component --pod ui-tabs
+  866  ember g --pod controller cadastro/layout/tab-1
+  865  ember g --pod controller cadastro/layout/tab-2
+  864  ember g --pod template cadastro/layout/tab-2
+  863  ember g --pod template cadastro/layout/tab-1
+  862  ember d component --pod ember-collection-reopen
+  861  ember g component --pod ember-collection-reopen
+  860  ember s
+  859  code .
+  858  micronos-mpv
+  857  mi
+  856  ls
+  855  ember-electron
+  854  ls
+  853  Front
+  852  Projetos
+  851  gp
+  850  git commit -m "merge"
+  849  git add .
+  848  gst
+  847  gl --allow-unrelated-histories
+  846  gl
+  845  git branch --set-upstream-to=origin/master master
+  844  gl
+  843  git commit -m "Initial commit"
+  842  git add .
+  841  gst
+  840  git remote add origin https://github.com/Mallone-Nogueira/ember-electron
+  839  git remote set-url origin https://github.com/Mallone-Nogueira/ember-electron
+  838  code .
+  837  ember electron
+  836  micronos-mpv
+  835  ls
+  834  ember-electron
+  833  ls
+  832  Front
+  831  Projetos
+  830  gp
+  829  git commit -m "Mudança no router"
+  828  gst
+  827  git add .
+  826  npm start
+  825  code .
+  824  tabela-preco
+  823  ls
+  822  cd ..
+  821  ls
+  820  npm start
+  819  tabela-preco
+  818  ls
+  817  rmdir tabela-preco2
+  816  rm tabela-preco2
+  815  ls
+  814  mv tabela-preco2/tabela-preco tabela-preco
+  813  ls
+  812  mv tabela-preco tabela-preco2
+  811  cd tabela-preco tabela-preco2
+  810  cd tabela-preco/ tabela-preco2
+  809  ls
+  808  cd ..
+  807  ls
+  806  cd ..
+  805  ls
+  804  cd tabela-preco
+  803  ls
+  802  cd 
+  801  ls
+  800  mv json-placeholder tabela-preco
+  799  ls
+  798  cd tabela-preco
+  797  ls
+  796  cd ..
+  795  mv json-placeholder ../tabela-preco
+  794  ls
+  793  cd ..
+  792  gl
+  791  gp
+  790  git config credential.helper store
+  789  gp
+  788  gl
+  787  git config credential.helper 
+  786  git store --help
+  785  git commit -m "Remove lock" && gp
+  784  gst
+  783  ls
+  782  git add yarn.lock
+  781  rm yarn.lock
+  780  gp
+  779  gl
+  778  gst
+  777  git commit -m "Merge"
+  776  gl
+  775  gst
+  774  git add README.md
+  773  gst
+  772  ls
+  771  gl
+  770  gp
+  769  gl --allow-unrelated-histories
+  768  gl
+  767  git branch --set-upstream-to=origin/master master
+  766  git branch --set-upstream-to=origin/<branch> master
+  765  gl
+  764  git push origin master
+  763  git remote -v
+  762  git remote add origin https://github.com/Mallone-Nogueira/tabela-preco
+  761  git remote add origin remote repository https://github.com/Mallone-Nogueira/tabela-preco
+  760  gst
+  759  git commit -m "First commit"
+  758  gst
+  757  git reset HEAD package-lock.json
+  756  gst
+  755  git add .
+  754  gst
+  753  gl
+  752  code .
+  751  npm start
+  750  ls
+  749  tabela-preco
+  748  ls
+  747  mv json-placeholder tabela-preco
+  746  mkdir json-placeholder tabela-preco
+  745  ls
+  744  sudo rm -rf tabela-preco
+  743  rm -rf tabela-preco
+  742  ls
+  741  cd ..
+  740  npm start
+  739  sudo npm install react-router-dom
+  738  npm install react-router-dom
+  737  npm start
+  736  json-placeholder
+  735  npm start
+  734  code json-placeholder
+  733  ls
+  732  cd ..
+  731  npm start
+  730  code .
+  729  sudo npx create-react-app tabela-preco && cd tabela-preco && npm start
+  728  npx create-react-app tabela-preco && cd tabela-preco && npm start
+  727  create-react-app tabela-preco
+  726  ls
+  725  react
+  724  ls
+  723  Front
+  722  Projetos
+  721  /opt/Tibia
+  720  /opt/tibia
+  719  exit
+  718  ls
+  717  Front
+  716  Projetos
+  715  sudo chown mallone /opt -R
+  714  yarn start
+  713  code .
+  712  json-placeholder
+  711  ls
+  710  react
+  709  ls
+  708  Front
+  707  Projetos
+  706  code .
+  705  sudo apt-get upgrade
+  704  sudo apt-get update
+  703  code .
+  702  ls
+  701  json-placeholder
+  700  ls
+  699  react
+  698  code .
+  697  sudo chown mallone . -R
+  696  sudo chown mallone .
+  695  cd ..
+  694  ls
+  693  cd ..
+  692  code .
+  691  yarn start
+  690  ls
+  689  cd json-placeholder
+  688  yarn start
+  687  sudo npx create-react-app json-placeholder
+  686  npx create-react-app json-placeholder
+  685  create-react-app 
+  684  ls
+  683  react
+  682  ls
+  681  mkdir react
+  680  ls
+  679  Front
+  678  Projetos
+  677  front
+  676  projetos
+  675  sudo ember new jsonplaceholder -b @ember/octane-app-blueprint
+  674  ember new jsonplaceholder -b @ember/octane-app-blueprint
+  673  ls
+  672  cd ember
+  671  ember
+  670  Front
+  669  Projetos
+  668  code .
+  667  ls
+  666  ember-quickstart
+  665  ls
+  664  sudo ember new ember-quickstart
+  663  ember new ember-quickstart
+  662  sudo npm install -g ember-cli
+  661  npm install -g ember-cli
+  660  cd ember
+  659  ls
+  658  mkdir ember
+  657  ls
+  656  Front
+  655  Projetos
+  654  ember electron
+  653  sudo ember install ember-drag-drop
+  652  ember electron
+  651  ember s
+  650  ember electron
+  649  code .
+  648  code ,
+  647  ember-electron/micronos-mpv
+  646  Front
+  645  Projetos
+  644  ember electron
+  643  ember d  component ui-table-row --pod
+  642  ember g  component ui-tr --pod
+  641  ember g  component ui-th --pod
+  640  ember g  component ui-td --pod
+  639  ember d  component ui-table-cell --pod
+  638  sudo yarn add @html-next/vertical-collection
+  637  ember install @html-next/vertical-collection
+  636  ember electron
+  635  sudo yarn add ember-sortable
+  634  sudo ember install ember-sortable
+  633  ember install ember-sortable
+  632  ember g  component ui-table-cell --pod
+  631  ember g  component ui-table-row --pod
+  630  ember  component ui-table-row --pod
+  629  ember d component ui-table-row --pod
+  628  ember g component ui-table-row --pod
+  627  ember d component ui-trow --pod
+  626  ember g component ui-trow --pod
+  625  ember g component ui-thead --pod
+  624  ember g component ui-tbody --pod
+  623  ember d component ui-tr --pod
+  622  ember d component ui-ttr --pod
+  621  ember d component ui-thead --pod
+  620  ember d component ui-tbody --pod
+  619  ember d component ui-table-body --pod
+  618  ember g component ui-table-body --pod
+  617  ember g component ui-table --pod
+  616  ember g component ui-table
+  615  code .
+  614  micronos-mpv
+  613  ls
+  612  ember-electron
+  611  ls
+  610  Front
+  609  Projetos
+  608  sudo ember electron
+  607  exit
+  606  sudo ember electron
+  605  ember electron
+  604  sudo ember electron
+  603  ember d route cadastro.layout --pod
+  602  ember g route cadastro/layout --pod
+  601  ember d controller cadastro.layout --pod
+  600  ember g controller cadastro/layout --pod
+  599  ember g controller cadastro.layout --pod
+  598  ember g route cadastro.layout --pod
+  597  sudo ember electron
+  596  ember electron
+  595  ember g component ui-input --pod
+  594  ember d component ui-input
+  593  ember g component ui-input
+  592  sudo ember electron
+  591  ember electron
+  590  sudo yarn add --dev @fortawesome/free-solid-svg-icons 
+  589  sudo npm i --save-dev @fortawesome/free-solid-svg-icons
+  588  npm i --save-dev @fortawesome/free-solid-svg-icons
+  587  sudo ember install @fortawesome/ember-fontawesome
+  586  ember install @fortawesome/ember-fontawesome
+  585  sudo ember electron
+  584  ember electron
+  583  code .
+  582  ls
+  581  micronos-mpv
+  580  ls
+  579  ember-electron
+  578  ls
+  577  Front
+  576  Projetos
+  575  projetos
+  574  ember electron
+  573  sudo yarn install
+  572  sudo yarn remove ember-collection
+  571  yarn remove ember-collection
+  570  ember d component wrapper-ember-collection --pod
+  569  ember electron
+  568  ember collection
+  567  sudo yarn add ember-cli-shims
+  566  yarn add ember-cli-shims
+  565  ember electron
+  564  ember g component wrapper-ember-collection --pod
+  563  ember d component wrapper-ember-collection
+  562  ember g component wrapper-ember-collection
+  561  ember electron
+  560  sudo yarn add  ember-collection
+  559  sudo yarn  install ember-collection
+  558  sudo npm install ember-collection
+  557  ember electron
+  556  sudo yarn install
+  555  ember electron
+  554  sudo ember install ember-collection
+  553  ember install ember-collection
+  552  ember electron
+  551  ember g mixin isLoadingMixin
+  550  ember electron
+  549  ember g component double-yield --pod
+  548  ember electron
+  547  echo fs.inotify.max_user_watches=16384 | sudo tee -a /etc/sysctl.conf\nsudo sysctl -p
+  546  ember electron
+  545  code .
+  544  micronos-mpv
+  543  ls
+  542  ember-electron
+  541  ls
+  540  Front
+  539  Projetos
+  538  gst
+  537  git commit -m "Commit inicial"
+  536  git config --global user.name "Mallone"
+  535  git commit -m "Commit inicial"
+  534  gst
+  533  git commit -m "Commit inicial"
+  532  gst
+  531  git add .eslintrc.js .gitignore README.md ember-cli-build.js ember-electron/ package.json
+  530  gst
+  529  git add app/* test*
+  528  gst
+  527  ember electron
+  526  git diff
+  525  git add package-lock.json
+  524  gst
+  523  git diff
+  522  yarn install && ember electron
+  521  code .
+  520  yarn install && ember electron
+  519  git diff package.json
+  518  yarn install && ember electron
+  517  sudo rm -rf node_modules dist tmp package-lock.json
+  516  rm -rf node_modules dist tmp package-lock.json
+  515  sudo  npm install --save-dev babel-plugin-transform-object-rest-spread
+  514  ember electron
+  513  ember electron-out
+  512  sudo ember install ember-cli-sass
+  511  ember install ember-cli-sass
+  510  ember electron
+  509  micronos-mpv
+  508  ls
+  507  Projetos/Front/ember-electron
+  506  ember electron
+  505  code .
+  504  painel-preco
+  503  ls
+  502  react-eletron
+  501  ls
+  500  cd ..
+  499  ls
+  498  cd ..
+  497  ember electron
+  496  sudo ember install ember-electron@2.7.1
+  495  ember install ember-electron@2.7.1
+  494  ember electron
+  493  sudo yarn install
+  492  sudo rm -rf node_modules dist tmp package-lock.json
+  491  ember electron
+  490  sudo yarn install
+  489  yarn install
+  488  sudo rm -rf node_modules dist tmp package-lock.json
+  487  rm -rf node_modules dist tmp package-lock.json
+  486  ember electron
+  485  sudo yarn install
+  484  yarn i
+  483  code .
+  482  sudo ember install ember-electron
+  481  sudo ember electron
+  480  ember electron
+  479  ember g route application
+  478  ember g component ui-button  --pod
+  477  ember d component m-button  --pod
+  476  ember g component m-button  --pod
+  475  ember g controller cadastro/produto --pod
+  474  ember g route cadastro/produto --pod
+  473  ember d controller cadastro-produto --pod
+  472  ember d route cadastro-produto --pod
+  471  ls
+  470  ember g route cadastro-produto --pod
+  469  ember g controller cadastro-produto --pod
+  468  ember d route cadastro-produto
+  467  ember d controller cadastro-produto
+  466  ember g controller cadastro-produto
+  465  ember g route cadastro-produto
+  464  code .
+  463  ls
+  462  cd ..
+  461  ls
+  460  nemo .
+  459  _nautilus .
+  458  cat description
+  457  ls info
+  456  cat info
+  455  cat config
+  454  ls branches
+  453  ls
+  452  ls branches
+  451  ls
+  450  cd ..
+  449  ls heads
+  448  cat heads
+  447  ls
+  446  cd refs
+  445  cat refs
+  444  ls
+  443  cd .git
+  442  ember electron
+  441  sudo ember install ember-electron
+  440  ember install ember-electron
+  439  ls
+  438  cd micronos-mpv
+  437  ls
+  436  ember new micronos-mpv
+  435  ls
+  434  sudo rm -rf micronos-mpv
+  433  ls
+  432  cd ..
+  431  ls
+  430  cd ..
+  429  rm -rf .
+  428  ember --version
+  427  ember -version
+  426  ember-cli -version
+  425  ember electron
+  424  ember-electron
+  423  ember electron
+  422  sudo yarn install
+  421  yarn install
+  420  sudo rm -rf node_modules/ package-lock.json dist tmp
+  419  rm -rf node_modules/ package-lock.json dist tmp
+  418  ember electron
+  417  sudo yarn add babel-preset-env babel-preset-react babel-plugin-transform-async-to-generator electron-forge --dev
+  416  yarn add babel-preset-env babel-preset-react babel-plugin-transform-async-to-generator electron-forge --dev
+  415  sudo ember g ember-electron
+  414  ember electron
+  413  sudo npm i
+  412  code .
+  411  ls
+  410  sudo ember install ember-electron
+  409  ember install ember-electron
+  408  ember s
+  407  ls
+  406  sudo rm -rf micronos-mpv
+  405  rm -rf micronos-mpv
+  404  ember s
+  403  ls
+  402  ember init
+  401  ember install ember-electron
+  400  npm i
+  399  ember install ember-electron
+  398  sudo ember new micronos-mpv
+  397  ember new micronos-mpv
+  396  ember install 
+  395  ember install ember-electron
+  394  ls
+  393  npm install
+  392  ember install ember-electron
+  391  ls
+  390  ember install ember-electron
+  389  sudo npm install -g ember-cli
+  388  npm install -g ember-cli
+  387  ember install ember-electron
+  386  ls
+  385  micronos-mpv
+  384  mkdir micronos-mpv
+  383  ls
+  382  cd ember-electron
+  381  ls
+  380  mkdir ember-electron
+  379  ls
+  378  Front
+  377  Projetos
+  376  cd painel-preco
+  375  sudo yarn run dev
+  374  yarn run dev
+  373  painel-preco
+  372  sudo yarn run dev
+  371  yarn run dev
+  370  code .
+  369  react-eletron
+  368  Front
+  367  Projetos
+  366  sudo yarn run dev
+  365  yarn run dev
+  364  code .
+  363  painel-preco
+  362  ls
+  361  react-eletron
+  360  ls
+  359  Front
+  358  Projetos
+  357  sudo yarn run dev
+  356  yarn run dev
+  355  sudo yarn add flow-typed
+  354  sudo yarn add popper.js
+  353  sudo yarn add popper
+  352  sudo yarn add jquery
+  351  sudo yarn add bootstrap@4.3.1
+  350  yarn add bootstrap@4.3.1
+  349  node ./download-chromedriver.js
+  348  sudo npm install bootstrap
+  347  sudo nstall bootstrap
+  346  npm install bootstrap
+  345  gst
+  344  git diff
+  343  sudo npm i --save @fortawesome/fontawesome-svg-core \\n  npm i --save @fortawesome/free-solid-svg-icons \\n  npm i --save @fortawesome/react-fontawesome
+  342  npm i --save @fortawesome/fontawesome-svg-core \\n  npm i --save @fortawesome/free-solid-svg-icons \\n  npm i --save @fortawesome/react-fontawesome
+  341  gst
+  340  git checkout app/Routes.js app/components/Home.js app/constants/routes.json
+  339  git diff
+  338  yarn run dev
+  337  git diff
+  336  gst
+  335  yarn run dev
+  334  yarn run decv
+  333  yarn run dev
+  332  code .
+  331  sudo apt install fonts-firacode
+  330  brew tap caskroom/fonts
+  329  yarn run dev
+  328  code .
+  327  painel-preco
+  326  ls
+  325  react-eletron
+  324  ls
+  323  react-electron
+  322  ls
+  321  Front
+  320  Projetos
+  319  yarn run dev
+  318  code .
+  317  ls
+  316  vue-electron
+  315  ls
+  314  Front
+  313  Projetos
+  312  code
+  311  code .
+  310  ls
+  309  vue-electron
+  308  Front
+  307  Projetos
+  306  yarn run dev
+  305  code
+  304  vue-electron
+  303  ls
+  302  Front
+  301  Projetos
+  300  yarn run dev
+  299  ls
+  298  yarn
+  297  ls
+  296  vue-electron
+  295  ls
+  294  vue init simulatedgreg/electron-vue vue-electron
+  293  sudo npm install -g vue-cli
+  292  npm install -g vue-cli
+  291  ls
+  290  Projetos/Front
+  289  yarn dev
+  288  code .
+  287  node .
+  286  yarn
+  285  sudo rm -rf node_modules
+  284  rm -rf node_modules
+  283  ls
+  282  1ls
+  281  yarn
+  280  painel-preco
+  279  ls
+  278  cd ..
+  277  Projetos
+  276  yarn
+  275  sudo apt-get update && sudo apt-get install yarn
+  274  sudo apt-get remove cmdtest
+  273  curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -\necho "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+  272  yarn
+  271  sudo apt-get install yarn
+  270  sudo apt-get remove cmdtest
+  269  sudo apt-get update && sudo apt-get install yarn
+  268  sudo apt-get install yarn
+  267  sudo apt-get remove yarn
+  266  yarn
+  265  ls
+  264  sudo apt-get remove yarn
+  263  yarn
+  262  sudo npm install -g yarn
+  261  npm install -g yarn
+  260  sudo apt-get install yarn
+  259  yarn
+  258  tabela-preco
+  257  ls
+  256  Projetos/Front/react-eletron
+  255  yarn
+  254  tabela-preco
+  253  ls
+  252  git clone --depth=1 https://github.com/electron-react-boilerplate/electron-react-boilerplate.git tabela-preco
+  251  cd ..
+  250  sudo npm install --save-dev electron-chromedriver
+  249  npm install --save-dev electron-chromedriver
+  248  yarn npm install --save-dev electron-chromedriver
+  247  sudo npm i
+  246  yarn 
+  245  yarn i
+  244  yarn .
+  243  yarn install
+  242  yarn
+  241  painel-preco
+  240  pr
+  239  ls
+  238  react-eletron
+  237  ls
+  236  yarn --version
+  235  yarn -version
+  234  yarn
+  233  Front
+  232  Projetos
+  231  yarn
+  230  sudo chown -R $USER:$(id -gn $USER) /home/mallone/.config 
+  229  sudo npm i
+  228  npm i
+  227  yarn dev
+  226  yarn
+  225  sudo apt-get install yarn
+  224  yarn
+  223  code .
+  222  ls
+  221  painel-preco
+  220  ls
+  219  git clone --depth 1 --single-branch --branch master https://github.com/electron-react-boilerplate/electron-react-boilerplate.git painel-preco
+  218  ls
+  217  cd react-eletron
+  216  mkdir react-eletron
+  215  ls
+  214  Front
+  213  Projetos
+  212  npm run start
+  211  ls
+  210  cd Front/open-wc/first-app
+  209  chmod 777 -R .
+  208  sudo chown -R mallone .
+  207  chown -R mallone .
+  206  chown -R mallone
+  205  sudo chmod 777 -R .
+  204  chmod 777 -R .
+  203  chmod 777 .
+  202  cd ..
+  201  cd..
+  200  cd ..
+  199  npm run start
+  198  code .
+  197  node .
+  196  npm run start
+  195  cd first-app
+  194  ls
+  193  rm -rf open-wc-first-app
+  192  ls
+  191  cd ..
+  190  ls
+  189  sudo mv ./first-app  ./../first-app
+  188  mv ./first-app  ./../first-app
+  187  sudo npm init @open-wc
+  186  npm init @open-wc
+  185  node -v
+  184  sudo n stable
+  183  node -v
+  182  sudo n 12.0.0
+  181  n 12.0.0
+  180  n ls
+  179  n
+  178  sudo npm install -g n
+  177  npm install -g n
+  176  npm -v
+  175  node -v
+  174  sudo npm install npm@latest -g
+  173  npm install npm@latest -g
+  172  node -v
+  171  sudo apt-get install node
+  170  sudo apt-get install npm
+  169  node --version
+  168  npm --version
+  167  ls
+  166  npm upgrade npm
+  165  npm update npm
+  164  npm --version
+  163  sudo npm install -g @open-wc
+  162  npm install -g @open-wc
+  161  ls
+  160  npm init @open-wc
+  159  ls
+  158  cd open-wc-first-app
+  157  ls
+  156  mkdir open-wc-first-app
+  155  ls
+  154  cd open-wc
+  153  ls
+  152  mkdir open-wc
+  151  ls
+  150  rm -rf open-wc-test
+  149  ls
+  148  cd ..
+  147  npm i
+  146  cat package.json
+  145  ls
+  144  vi package.json
+  143  ls
+  142  open-wc-test
+  141  ls
+  140  cd ..
+  139  ls
+  138  mv ./../open-wc ./../open-wc-test
+  137  mb ./../open-wc ./../open-wc-test
+  136  ls
+  135  npm i
+  134  ls
+  133  npm init @open-wc
+  132  ls
+  131  open-wc
+  130  ls
+  129  mkdir open-wc
+  128  open-wc
+  127  ls
+  126  Front
+  125  ls
+  124  Projetos
+  123  sass --watch index.scss index.css
+  122  sass -watch index.scss index.css
+  121  live-server
+  120  code .
+  119  ls
+  118  Testes
+  117  ls
+  116  Projetos/Front
+  115  sass --watch index.scss index.css
+  114  ls
+  113  live-server
+  112  http-server
+  111  npm start
+  110  npm install
+  109  npm install http-server -g
+  108  ls
+  107  cd patients-crud
+  106  ls
+  105  git clone https://github.com/EricDosReis/patients-crud.git patients-crud
+  104  cd ..
+  103  live-server
+  102  live-sever
+  101  live-http
+  100  node class-calendar.js
+   99  ls
+   98  Testes
+   97  ls
+   96  Front
+   95  ls
+   94  Projetos
+   93  ls
+   92  front
+   91  code
+   90  sudo halt
+   89  live-server
+   88  sass --watch index.scss index.css
+   87  sass -watch index.scss index.css
+   86  sass -wath index.scss index.css
+   85  live-server
+   84  ls
+   83  Projetos/Front/Testes
+   82  code .
+   81  node index.js
+   80  node 
+   79  sass --watch index.scss index.css
+   78  ls
+   77  sudo npm install -g sass
+   76  npm install -g sass
+   75  live-server
+   74  nodemon -v 
+   73  nodemon .
+   72  nodemon
+   71  nodemon -h
+   70  nodemon ./index.html localhost 8080
+   69  nodemon --port
+   68  nodemon
+   67  sudo npm install -g nodemon
+   66  npm install -g nodemon
+   65  live-server
+   64  npm install --save-dev reload
+   63  npm start
+   62  npm i --save-dev live-server
+   61  npm start
+   60  sudo npm install -g live-server
+   59  npm install -g live-server
+   58  http-server .
+   57  code .
+   56  ls
+   55  npm remove http-server
+   54  npm init
+   53  ls
+   52  sudo npm install -g http-server
+   51  npm install -g http-server
+   50  ls
+   49  npm install http-server
+   48  ls
+   47  sudo apt-get install npm
+   46  npm install http-server
+   45  ls
+   44  Testes
+   43  mkdir Testes
+   42  Front
+   41  Projetos
+   40  mkdir Projetos/Front
+   39  mkdir Projetos
+   38  sudo halt
+   37  sudo add-apt-repository ppa:danielrichter2007/grub-customizer && sudo apt-get update && sudo apt-get install grub-customizer
+   36  sudo apt-get install menulibre
+   35  cd .oh-my-zsh
+   34  nano agnoster.zsh-theme
+   33  ls
+   32  themes
+   31  ls
+   30  ./.oh-my-zsh
+   29  exit
+   28  zsh
+   27  ~
+   26  ls
+   25  cd ..
+   24  ls
+   23  cd Downloads
+   22  ls
+   21  sudo apt-get install fonts-powerline
+   20  nano ./.zshrc
+   19  ls
+   18  sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
+   17  sudo apt-get install git
+   16  sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
+   15  cd ~
+   14  sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+   13  ls
+   12  cd ..
+   11  sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+   10  cd ..
+    9  sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+    8  ls
+    7  cd /usr/bin
+    6  cd /usr/bin/zsh
+    5  sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+    4  ls
+    3  cd ~
+    2  sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+    1  exit
